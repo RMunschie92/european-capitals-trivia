@@ -363,6 +363,14 @@ module.exports = {
       ]
     },
     {
+      'What is the capital of Turkey?': [
+        'Ankara',
+        'Istanbul',
+        'Baku',
+        'Belgrade',
+      ]
+    },
+    {
       'What is the capital of Ukraine?': [
         'Kiev',
         'Moscow',

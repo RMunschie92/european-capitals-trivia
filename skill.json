@@ -3,14 +3,14 @@
     "publishingInformation": {
       "locales": {
         "en-US": {
-          "summary": "Sample Short Description",
+          "summary": "Test your knowledge of Europe's capital cities!",
           "examplePhrases": [
-            "Alexa open reindeer trivia",
-            "Alexa tell reindeer trivia to start a game",
-            "Alexa tell reindeer trivia I want to play"
+            "Alexa open European Capitals Trivia",
+            "Alexa tell European Capitals Trivia to start a game",
+            "Alexa tell European Capitals Trivia I want to play"
           ],
-          "name": "reindeer trivia",
-          "description": "Sample Full Description"
+          "name": "European Capitals Trivia",
+          "description": "Learn about the political geography of Europe with European Capitals Trivia! Each round is consists of ten multiple-choice questions. Answer by speaking the number associated with the correct city."
         }
       },
       "isAvailableWorldwide": true,
